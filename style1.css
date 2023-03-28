@@ -1,0 +1,44 @@
+body {
+  background-image: url(https://i.pinimg.com/originals/3d/08/e0/3d08e03cb40252526fee2036a67f07f1.gif)
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+h2{
+   font-family: 'Lucida Handwriting', cursive;
+  font-size: 30px;
+  color: #ffffff;
+}
+h1{
+  font-family: 'Lucida Handwriting', cursive;
+  font-size: 40px;
+  color: #ffffff;
+}
+h6{
+  font-family:'Garamond', Serif;
+  font-size: 20px;
+  color: #ffffff;
+  
+}
+button{
+  font-size:35px;
+  border: 2px solid black;
+ }
+button:hover{
+  background-color: #000000 ;
+  color: #ffffff ease-in;
+  border: 2px solid white;
+}
+a{
+  padding: 8px 8px 8px 8px;
+  font-family: 'brush script m7', cursive ;
+  font-style: "italic";
+  text-decoration: none;
+  color: #000000;
+}
+a:hover{
+  padding: 8px 8px 8px 8px;
+  color: #ffffff;
+}
